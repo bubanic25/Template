@@ -39,7 +39,7 @@ services:
     networks:
       - sp-net
   euler:
-    image: YOUR_USERNAME/shiny-euler-app
+    image: bubanic25/shiny-euler-app
 
 networks:
   sp-net:
